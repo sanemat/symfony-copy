@@ -18,7 +18,7 @@
  * @subpackage generator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrineFormGenerator.class.php 29661 2010-05-28 16:56:42Z Kris.Wallsmith $
  */
 class sfDoctrineFormGenerator extends sfGenerator
 {

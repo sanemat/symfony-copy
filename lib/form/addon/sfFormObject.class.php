@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage form
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfFormObject.class.php 22917 2009-10-10 13:44:53Z Kris.Wallsmith $
  */
 abstract class sfFormObject extends BaseForm
 {

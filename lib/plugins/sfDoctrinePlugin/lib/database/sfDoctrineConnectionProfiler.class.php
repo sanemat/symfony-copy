@@ -6,7 +6,7 @@
  * @package    sfDoctrinePlugin
  * @subpackage database
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrineConnectionProfiler.class.php 20157 2009-07-13 17:00:12Z Kris.Wallsmith $
  */
 class sfDoctrineConnectionProfiler extends Doctrine_Connection_Profiler
 {

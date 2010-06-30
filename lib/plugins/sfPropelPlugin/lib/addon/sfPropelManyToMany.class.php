@@ -15,7 +15,7 @@
  * @subpackage propel
  * @author     Nick Lane <nick.lane@internode.on.net>
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPropelManyToMany.class.php 22881 2009-10-08 16:50:37Z Kris.Wallsmith $
  */
 class sfPropelManyToMany
 {

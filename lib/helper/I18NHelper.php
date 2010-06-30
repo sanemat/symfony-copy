@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage helper
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: I18NHelper.php 29597 2010-05-24 06:00:11Z fabien $
  */
 
 function __($text, $args = array(), $catalogue = 'messages')

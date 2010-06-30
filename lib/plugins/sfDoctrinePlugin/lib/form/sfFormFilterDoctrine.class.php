@@ -21,7 +21,7 @@
  * @subpackage form
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfFormFilterDoctrine.class.php 28992 2010-04-06 11:30:44Z Kris.Wallsmith $
  */
 abstract class sfFormFilterDoctrine extends sfFormFilter
 {

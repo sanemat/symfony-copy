@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage propel
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfMixer.class.php 11108 2008-08-25 11:00:07Z Kris.Wallsmith $
  */
 class sfMixer
 {

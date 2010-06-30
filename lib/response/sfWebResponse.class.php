@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage response
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWebResponse.class.php 28347 2010-03-02 17:47:14Z fabien $
  */
 class sfWebResponse extends sfResponse
 {

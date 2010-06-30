@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWidget.class.php 22933 2009-10-11 22:42:56Z Kris.Wallsmith $
  */
 abstract class sfWidget
 {

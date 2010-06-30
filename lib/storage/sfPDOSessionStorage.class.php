@@ -19,7 +19,7 @@
  * @author     Mathew Toth <developer@poetryleague.com>
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPDOSessionStorage.class.php 13143 2008-11-18 22:22:01Z FabianLange $
  */
 class sfPDOSessionStorage extends sfDatabaseSessionStorage
 {

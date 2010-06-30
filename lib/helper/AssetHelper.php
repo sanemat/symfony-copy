@@ -16,7 +16,7 @@
  * @subpackage helper
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     David Heinemeier Hansson
- * @version    SVN: $Id$
+ * @version    SVN: $Id: AssetHelper.php 24289 2009-11-23 19:45:06Z Kris.Wallsmith $
  */
 
 /**

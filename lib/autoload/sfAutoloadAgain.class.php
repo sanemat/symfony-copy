@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage autoload
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfAutoloadAgain.class.php 22248 2009-09-22 17:15:16Z fabien $
  */
 class sfAutoloadAgain
 {

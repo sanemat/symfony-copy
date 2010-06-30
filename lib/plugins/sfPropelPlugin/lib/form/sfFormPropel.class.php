@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage form
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfFormPropel.class.php 27915 2010-02-11 18:12:56Z Kris.Wallsmith $
  */
 abstract class sfFormPropel extends sfFormObject
 {

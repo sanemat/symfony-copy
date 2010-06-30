@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWidgetFormSelectRadio.class.php 27738 2010-02-08 15:07:33Z Kris.Wallsmith $
  */
 class sfWidgetFormSelectRadio extends sfWidgetFormChoiceBase
 {

@@ -6,7 +6,7 @@
  * @package    symfony
  * @subpackage generator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfModelGeneratorConfiguration.class.php 29656 2010-05-28 13:09:33Z Kris.Wallsmith $
  */
 abstract class sfModelGeneratorConfiguration
 {

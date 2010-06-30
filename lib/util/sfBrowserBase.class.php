@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage util
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfBrowserBase.class.php 28702 2010-03-23 12:02:01Z fabien $
  */
 abstract class sfBrowserBase
 {

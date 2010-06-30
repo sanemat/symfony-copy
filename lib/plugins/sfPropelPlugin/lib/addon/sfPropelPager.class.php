@@ -15,7 +15,7 @@
  * @package    sfPropelPlugin
  * @subpackage addon
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPropelPager.class.php 27747 2010-02-08 18:02:19Z Kris.Wallsmith $
  */
 class sfPropelPager extends sfPager
 {

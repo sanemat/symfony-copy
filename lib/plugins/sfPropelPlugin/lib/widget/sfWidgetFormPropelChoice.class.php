@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWidgetFormPropelChoice.class.php 29679 2010-05-30 14:46:03Z Kris.Wallsmith $
  */
 class sfWidgetFormPropelChoice extends sfWidgetFormChoice
 {

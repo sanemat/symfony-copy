@@ -18,7 +18,7 @@
  * @package    symfony
  * @subpackage view
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfViewCacheManager.class.php 29527 2010-05-19 13:08:37Z fabien $
  */
 class sfViewCacheManager
 {

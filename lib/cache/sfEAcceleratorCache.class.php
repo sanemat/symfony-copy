@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage cache
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfEAcceleratorCache.class.php 21908 2009-09-11 12:06:21Z fabien $
  */
 class sfEAcceleratorCache extends sfCache
 {

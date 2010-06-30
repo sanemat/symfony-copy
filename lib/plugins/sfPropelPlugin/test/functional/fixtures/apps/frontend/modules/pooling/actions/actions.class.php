@@ -6,7 +6,7 @@
  * @package    ##PROJECT_NAME##
  * @subpackage pooling
  * @author     Your name here
- * @version    SVN: $Id$
+ * @version    SVN: $Id: actions.class.php 14025 2008-12-14 15:41:43Z Kris.Wallsmith $
  */
 class poolingActions extends sfActions
 {

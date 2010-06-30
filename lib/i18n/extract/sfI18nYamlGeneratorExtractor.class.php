@@ -12,7 +12,7 @@
  * @package    symfony
  * @subpackage i18n
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfI18nYamlGeneratorExtractor.class.php 28848 2010-03-29 09:37:05Z fabien $
  */
 class sfI18nYamlGeneratorExtractor extends sfI18nYamlExtractor
 {

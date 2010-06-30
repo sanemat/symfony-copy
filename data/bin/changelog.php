@@ -15,7 +15,7 @@
  *
  * @package    symfony
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: changelog.php 24071 2009-11-17 07:36:21Z Kris.Wallsmith $
  */
 require_once dirname(__FILE__).'/../../lib/task/sfFilesystem.class.php';
 

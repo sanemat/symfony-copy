@@ -16,7 +16,7 @@
  * @subpackage helper
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     David Heinemeier Hansson
- * @version    SVN: $Id$
+ * @version    SVN: $Id: TagHelper.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 
 /**

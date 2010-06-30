@@ -6,7 +6,7 @@
  * @package    sfPropelPlugin
  * @subpackage config
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPropelPluginConfiguration.class.php 23739 2009-11-09 23:32:46Z Kris.Wallsmith $
  */
 class sfPropelPluginConfiguration extends sfPluginConfiguration
 {

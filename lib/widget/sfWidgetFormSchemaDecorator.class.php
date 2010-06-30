@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage widget
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWidgetFormSchemaDecorator.class.php 22446 2009-09-26 07:55:47Z fabien $
  */
 class sfWidgetFormSchemaDecorator extends sfWidgetFormSchema
 {

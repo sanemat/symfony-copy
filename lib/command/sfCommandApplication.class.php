@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage command
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfCommandApplication.class.php 23218 2009-10-20 20:59:02Z FabianLange $
  */
 abstract class sfCommandApplication
 {

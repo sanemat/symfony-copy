@@ -16,7 +16,7 @@
  * @subpackage helper
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     David Heinemeier Hansson
- * @version    SVN: $Id$
+ * @version    SVN: $Id: TextHelper.php 29417 2010-05-12 06:53:36Z fabien $
  */
 
 /**

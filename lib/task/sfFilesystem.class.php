@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage util
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfFilesystem.class.php 27816 2010-02-10 15:46:46Z FabianLange $
  */
 class sfFilesystem
 {

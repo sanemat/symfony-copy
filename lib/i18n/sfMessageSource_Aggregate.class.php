@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage i18n
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfMessageSource_Aggregate.class.php 13401 2008-11-27 11:18:39Z fabien $
  */
 class sfMessageSource_Aggregate extends sfMessageSource
 {

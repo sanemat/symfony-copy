@@ -6,7 +6,7 @@
  * @package    project
  * @subpackage cache
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: actions.class.php 28625 2010-03-19 19:00:53Z Kris.Wallsmith $
  */
 class cacheActions extends sfActions
 {

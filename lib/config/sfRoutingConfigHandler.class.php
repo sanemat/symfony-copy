@@ -12,7 +12,7 @@
  * @package    symfony
  * @subpackage config
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfRoutingConfigHandler.class.php 24962 2009-12-04 20:39:41Z FabianLange $
  */
 class sfRoutingConfigHandler extends sfYamlConfigHandler
 {

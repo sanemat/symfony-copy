@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage validator
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfValidatorPropelChoice.class.php 28632 2010-03-20 14:13:37Z Kris.Wallsmith $
  */
 class sfValidatorPropelChoice extends sfValidatorBase
 {

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage log
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfWebDebugLogger.class.php 22853 2009-10-07 12:11:15Z fabien $
  */
 class sfWebDebugLogger extends sfVarLogger
 {

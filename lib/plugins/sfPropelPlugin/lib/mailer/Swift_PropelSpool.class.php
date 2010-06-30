@@ -20,7 +20,7 @@
  * @package    symfony
  * @subpackage mailer
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: Swift_PropelSpool.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class Swift_PropelSpool extends Swift_ConfigurableSpool
 {

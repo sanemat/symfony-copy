@@ -5,7 +5,7 @@
  *
  * @package    form
  * @subpackage book
- * @version    SVN: $Id$
+ * @version    SVN: $Id: BookForm.class.php 6884 2008-01-02 10:32:24Z dwhittle $
  */
 class BookForm extends BaseBookForm
 {

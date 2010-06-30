@@ -6,7 +6,7 @@
  * @package    test
  * @subpackage i18n
  * @author     Your name here
- * @version    SVN: $Id$
+ * @version    SVN: $Id: actions.class.php 24597 2009-11-30 19:53:50Z Kris.Wallsmith $
  */
 class i18nActions extends sfActions
 {

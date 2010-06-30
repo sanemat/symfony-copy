@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage doctrine
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrinePluginConfiguration.class.php 29156 2010-04-14 22:22:41Z bschussek $
  */
 class sfDoctrinePluginConfiguration extends sfPluginConfiguration
 {

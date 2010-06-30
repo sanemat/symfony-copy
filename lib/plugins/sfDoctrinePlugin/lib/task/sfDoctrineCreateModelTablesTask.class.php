@@ -16,7 +16,7 @@ require_once(dirname(__FILE__).'/sfDoctrineBaseTask.class.php');
  * @package    symfony
  * @subpackage doctrine
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDoctrineCreateModelTablesTask.class.php 23922 2009-11-14 14:58:38Z fabien $
  */
 class sfDoctrineCreateModelTables extends sfDoctrineBaseTask
 {

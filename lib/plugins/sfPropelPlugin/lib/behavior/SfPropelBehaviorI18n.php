@@ -16,7 +16,7 @@
  * @package     sfPropelPlugin
  * @subpackage  behavior
  * @author      Kris Wallsmith <kris.wallsmith@symfony-project.com>
- * @version     SVN: $Id$
+ * @version     SVN: $Id: SfPropelBehaviorI18n.php 24597 2009-11-30 19:53:50Z Kris.Wallsmith $
  */
 class SfPropelBehaviorI18n extends SfPropelBehaviorBase
 {

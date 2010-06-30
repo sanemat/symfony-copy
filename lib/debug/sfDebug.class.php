@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage debug
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfDebug.class.php 22118 2009-09-18 07:02:26Z fabien $
  */
 class sfDebug
 {

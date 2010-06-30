@@ -16,7 +16,7 @@ require_once(dirname(__FILE__).'/sfPropelBaseTask.class.php');
  * @package    symfony
  * @subpackage propel
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfPropelGenerateAdminTask.class.php 28809 2010-03-26 17:19:58Z Jonathan.Wage $
  */
 class sfPropelGenerateAdminTask extends sfPropelBaseTask
 {

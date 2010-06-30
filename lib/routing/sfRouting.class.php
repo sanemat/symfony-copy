@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage routing
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfRouting.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 abstract class sfRouting
 {

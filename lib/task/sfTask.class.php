@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id$
+ * @version    SVN: $Id: sfTask.class.php 23437 2009-10-29 16:12:53Z fabien $
  */
 abstract class sfTask
 {
